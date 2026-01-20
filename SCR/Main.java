@@ -1,10 +1,10 @@
-public class Main;
+public class Main{
     public static void main(String[] args){
-        Motorcycle m1 = new Motorcycle( "RED");
-        System.out.println(m1.getColor());
+        Motorcycle m5 = new Motorcycle( "RED");
+        System.out.println(m5.getColor());
 
-        Motorcycle m2 = new Motorcycle("Blue");
-        System.out.println(m2.getColor())
+        Motorcycle m6 = new Motorcycle("Blue");
+        System.out.println(m6.getColor());
 
 
     }
